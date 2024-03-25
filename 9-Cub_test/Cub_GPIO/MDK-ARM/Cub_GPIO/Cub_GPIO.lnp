@@ -1,0 +1,27 @@
+--cpu Cortex-M3
+"cub_gpio\startup_stm32f103xe.o"
+"cub_gpio\main.o"
+"cub_gpio\gpio.o"
+"cub_gpio\stm32f1xx_it.o"
+"cub_gpio\stm32f1xx_hal_msp.o"
+"cub_gpio\bsp_led.o"
+"cub_gpio\bsp_key.o"
+"cub_gpio\bsp_beep.o"
+"cub_gpio\stm32f1xx_hal_gpio_ex.o"
+"cub_gpio\stm32f1xx_hal_tim.o"
+"cub_gpio\stm32f1xx_hal_tim_ex.o"
+"cub_gpio\stm32f1xx_hal.o"
+"cub_gpio\stm32f1xx_hal_rcc.o"
+"cub_gpio\stm32f1xx_hal_rcc_ex.o"
+"cub_gpio\stm32f1xx_hal_gpio.o"
+"cub_gpio\stm32f1xx_hal_dma.o"
+"cub_gpio\stm32f1xx_hal_cortex.o"
+"cub_gpio\stm32f1xx_hal_pwr.o"
+"cub_gpio\stm32f1xx_hal_flash.o"
+"cub_gpio\stm32f1xx_hal_flash_ex.o"
+"cub_gpio\stm32f1xx_hal_exti.o"
+"cub_gpio\system_stm32f1xx.o"
+--strict --scatter "Cub_GPIO\Cub_GPIO.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "Cub_GPIO.map" -o Cub_GPIO\Cub_GPIO.axf
