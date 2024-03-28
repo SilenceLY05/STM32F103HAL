@@ -1,0 +1,26 @@
+--cpu Cortex-M3
+"exti-gpio\startup_stm32f103xe.o"
+"exti-gpio\main.o"
+"exti-gpio\gpio.o"
+"exti-gpio\stm32f1xx_it.o"
+"exti-gpio\stm32f1xx_hal_msp.o"
+"exti-gpio\bsp_exti.o"
+"exti-gpio\bsp_led.o"
+"exti-gpio\stm32f1xx_hal_gpio_ex.o"
+"exti-gpio\stm32f1xx_hal_tim.o"
+"exti-gpio\stm32f1xx_hal_tim_ex.o"
+"exti-gpio\stm32f1xx_hal.o"
+"exti-gpio\stm32f1xx_hal_rcc.o"
+"exti-gpio\stm32f1xx_hal_rcc_ex.o"
+"exti-gpio\stm32f1xx_hal_gpio.o"
+"exti-gpio\stm32f1xx_hal_dma.o"
+"exti-gpio\stm32f1xx_hal_cortex.o"
+"exti-gpio\stm32f1xx_hal_pwr.o"
+"exti-gpio\stm32f1xx_hal_flash.o"
+"exti-gpio\stm32f1xx_hal_flash_ex.o"
+"exti-gpio\stm32f1xx_hal_exti.o"
+"exti-gpio\system_stm32f1xx.o"
+--strict --scatter "EXTI-GPIO\EXTI-GPIO.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "EXTI-GPIO.map" -o EXTI-GPIO\EXTI-GPIO.axf
