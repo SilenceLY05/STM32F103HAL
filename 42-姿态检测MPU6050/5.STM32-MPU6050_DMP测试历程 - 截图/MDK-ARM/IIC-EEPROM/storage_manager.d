@@ -1,0 +1,14 @@
+iic-eeprom\storage_manager.o: ..\User\MPU6050\mllite\storage_manager.c
+iic-eeprom\storage_manager.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+iic-eeprom\storage_manager.o: ..\User\MPU6050\mllite\storage_manager.h
+iic-eeprom\storage_manager.o: ..\User\MPU6050\driver\include\mltypes.h
+iic-eeprom\storage_manager.o: ..\User\MPU6050\driver\include\stdint_invensense.h
+iic-eeprom\storage_manager.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+iic-eeprom\storage_manager.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\errno.h
+iic-eeprom\storage_manager.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+iic-eeprom\storage_manager.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+iic-eeprom\storage_manager.o: ..\User\MPU6050\driver\include\log.h
+iic-eeprom\storage_manager.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+iic-eeprom\storage_manager.o: ..\User\MPU6050\mllite\ml_math_func.h
+iic-eeprom\storage_manager.o: ..\User\MPU6050\driver\include\mlmath.h
+iic-eeprom\storage_manager.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h

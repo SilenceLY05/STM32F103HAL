@@ -1,0 +1,11 @@
+iic-eeprom\start_manager.o: ..\User\MPU6050\mllite\start_manager.c
+iic-eeprom\start_manager.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+iic-eeprom\start_manager.o: ..\User\MPU6050\driver\include\log.h
+iic-eeprom\start_manager.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+iic-eeprom\start_manager.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+iic-eeprom\start_manager.o: ..\User\MPU6050\mllite\start_manager.h
+iic-eeprom\start_manager.o: ..\User\MPU6050\driver\include\mltypes.h
+iic-eeprom\start_manager.o: ..\User\MPU6050\driver\include\stdint_invensense.h
+iic-eeprom\start_manager.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+iic-eeprom\start_manager.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\errno.h
+iic-eeprom\start_manager.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h

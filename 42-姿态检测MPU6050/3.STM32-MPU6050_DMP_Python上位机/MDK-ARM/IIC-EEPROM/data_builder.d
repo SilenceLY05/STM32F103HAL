@@ -1,0 +1,17 @@
+iic-eeprom\data_builder.o: ..\User\MPU6050\mllite\data_builder.c
+iic-eeprom\data_builder.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+iic-eeprom\data_builder.o: ..\User\MPU6050\mllite\ml_math_func.h
+iic-eeprom\data_builder.o: ..\User\MPU6050\driver\include\mltypes.h
+iic-eeprom\data_builder.o: ..\User\MPU6050\driver\include\stdint_invensense.h
+iic-eeprom\data_builder.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+iic-eeprom\data_builder.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\errno.h
+iic-eeprom\data_builder.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+iic-eeprom\data_builder.o: ..\User\MPU6050\mllite\data_builder.h
+iic-eeprom\data_builder.o: ..\User\MPU6050\driver\include\mlmath.h
+iic-eeprom\data_builder.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+iic-eeprom\data_builder.o: ..\User\MPU6050\mllite\storage_manager.h
+iic-eeprom\data_builder.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+iic-eeprom\data_builder.o: ..\User\MPU6050\mllite\message_layer.h
+iic-eeprom\data_builder.o: ..\User\MPU6050\mllite\results_holder.h
+iic-eeprom\data_builder.o: ..\User\MPU6050\driver\include\log.h
+iic-eeprom\data_builder.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h

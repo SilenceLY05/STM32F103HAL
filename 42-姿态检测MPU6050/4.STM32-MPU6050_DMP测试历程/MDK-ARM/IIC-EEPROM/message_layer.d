@@ -1,0 +1,11 @@
+iic-eeprom\message_layer.o: ..\User\MPU6050\mllite\message_layer.c
+iic-eeprom\message_layer.o: ..\User\MPU6050\mllite\message_layer.h
+iic-eeprom\message_layer.o: ..\User\MPU6050\driver\include\mltypes.h
+iic-eeprom\message_layer.o: ..\User\MPU6050\driver\include\stdint_invensense.h
+iic-eeprom\message_layer.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+iic-eeprom\message_layer.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+iic-eeprom\message_layer.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\errno.h
+iic-eeprom\message_layer.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+iic-eeprom\message_layer.o: ..\User\MPU6050\driver\include\log.h
+iic-eeprom\message_layer.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+iic-eeprom\message_layer.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h

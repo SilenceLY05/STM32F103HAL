@@ -1,0 +1,14 @@
+iic-eeprom\empl_outputs.o: ..\User\MPU6050\eMPL-hal\eMPL_outputs.c
+iic-eeprom\empl_outputs.o: ..\User\MPU6050\eMPL-hal\eMPL_outputs.h
+iic-eeprom\empl_outputs.o: ..\User\MPU6050\driver\include\mltypes.h
+iic-eeprom\empl_outputs.o: ..\User\MPU6050\driver\include\stdint_invensense.h
+iic-eeprom\empl_outputs.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+iic-eeprom\empl_outputs.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+iic-eeprom\empl_outputs.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\errno.h
+iic-eeprom\empl_outputs.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+iic-eeprom\empl_outputs.o: ..\User\MPU6050\mllite\ml_math_func.h
+iic-eeprom\empl_outputs.o: ..\User\MPU6050\driver\include\mlmath.h
+iic-eeprom\empl_outputs.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+iic-eeprom\empl_outputs.o: ..\User\MPU6050\mllite\start_manager.h
+iic-eeprom\empl_outputs.o: ..\User\MPU6050\mllite\data_builder.h
+iic-eeprom\empl_outputs.o: ..\User\MPU6050\mllite\results_holder.h
